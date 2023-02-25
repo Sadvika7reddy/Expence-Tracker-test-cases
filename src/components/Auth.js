@@ -8,7 +8,7 @@ const Auth = () => {
           <div className={classes.control}>
             <label htmlFor='email'>Email</label>
             <input type='email' id='email' />
-            <p>hello World</p>
+            <p>Hello World</p>
           </div>
           <div className={classes.control}>
             <label htmlFor='password'>Password</label>
